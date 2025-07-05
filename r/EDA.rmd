@@ -1,0 +1,97 @@
+```{r}
+library(fda)
+library(tidyverse)
+
+# Load the data
+updated_data <- read.csv('Updated_z_data.csv')
+curve_data <- read.csv('combined_average_curves.csv', row.names = 1)
+
+# Rename columns for clarity (adjust based on new file structure)
+colnames(updated_data) <- c(
+  'df_name', 'age', 'gender', 'ethnicity', 'other_ethnicity', 'gaming_experience',
+  'game_type', 'gaming_hours', 'minecraft_skill', 'curve_count',  'avg_original_length', 'avg_last_value', 'Env',  'removed_curves_count', 'cluster0', 'cluster1', 'cluster2', 'cluster3'
+)
+
+# Remove rows with missing relevant data
+clean_data <- updated_data %>% 
+  select(df_name, curve_count, avg_original_length, avg_last_value, age, gender, 
+         gaming_experience, game_type, gaming_hours, minecraft_skill, removed_curves_count, 
+         Env, cluster0, cluster1, cluster2, cluster3) %>%
+  drop_na()
+
+# Filter to match rows with df_name in curve data
+clean_data <- clean_data %>%
+  filter(df_name %in% rownames(curve_data)) %>%
+  mutate(
+    gender = as.factor(case_when(
+      gender %in% c('Male', 'Female') ~ gender,
+      TRUE ~ 'Other'
+    )),
+    gaming_experience = as.factor(gaming_experience),
+    game_type = as.factor(game_type),
+    minecraft_skill = as.factor(minecraft_skill),
+    Env = as.factor(Env)
+  )
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+# 设置自变量和因变量
+dependent_vars <- c("curve_count", "avg_original_length", "avg_last_value")
+independent_vars <- c("age", "gender", "game_type", "gaming_experience", 
+                      "minecraft_skill", "gaming_hours", 
+                      "Env", "removed_curves_count")
+
+# 遍历所有因变量和自变量
+for (dep_var in dependent_vars) {
+  for (indep_var in independent_vars) {
+    
+    # 判断自变量类型
+    if (is.numeric(clean_data[[indep_var]])) {
+      # 连续变量：散点图
+      p <- ggplot(clean_data, aes(x = .data[[indep_var]], y = .data[[dep_var]])) +
+        geom_point(alpha = 0.7) +
+        geom_smooth(method = "lm", se = FALSE, color = "blue") +
+        labs(title = paste(dep_var, "vs", indep_var), x = indep_var, y = dep_var) +
+        theme_minimal()
+      
+      print(p)
+      
+    } else {
+      # 分类变量：箱型图 + 统计类别数量
+      cat("类别计数 for", indep_var, ":\n")
+      print(table(clean_data[[indep_var]]))
+      
+      p <- ggplot(clean_data, aes(x = .data[[indep_var]], y = .data[[dep_var]], fill = .data[[indep_var]])) +
+        geom_boxplot() +
+        labs(title = paste(dep_var, "by", indep_var), x = indep_var, y = dep_var) +
+        theme_minimal() +
+        theme(legend.position = "none")
+      
+      print(p)
+    }
+  }
+}
+
+
+
+
+```
+
+
+
+

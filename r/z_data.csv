@@ -1,0 +1,190 @@
+df_name,Age:,Gender:,What ethnicity/race do you identify with? (select all that apply) - Selected Choice,What ethnicity/race do you identify with? (select all that apply) - Other - Text,"What is your level of experience playing video games (any type: computer or console-based, e.g. playstation) ?",Do you play first or third-person games?,"If you game currently, how many hours per day on average? - Hours",What would you consider your current Minecraft skill level?,curve_count,avg_original_length,avg_last_value,Env,Removed_curves
+2004,20,Male,Asian,,Novice,First-person,1,Novice,5,102.6,1.564,3E,0
+2006,19,Female,Asian,,Novice,Third-person,1,Novice,4,78.5,9.2075,1E,0
+2014,20,Female,Latino/Latina/Latinx,,Intermediate,Both,2,Novice,9,68.66666667,5.931111111,2E,2
+2017,18,Female,Black or African American,,Novice,Both,1,Novice,4,77.75,10.4225,4E,2
+2019,21,Male,Middle Eastern,,Expert,Both,3,Intermediate,10,47.7,2.223,2E,2
+2020,21,Male,Asian,,Intermediate,Both,3,Novice,2,25.5,4.07,4E,1
+2021,19,Female,Other,Egyptian and Pakistani,Novice,First-person,,Novice,3,59,3.273333333,1E,0
+2022,22,Female,Asian,,Intermediate,Third-person,1,Novice,2,118,7.435,4E,0
+2024,22,Female,Other,,Novice,Third-person,0,Novice,8,44.875,3.3475,1E,2
+2025,23,Female,"Asian,White",,Novice,First-person,0,Novice,7,74,6.585714286,3E,0
+2027,20,Female,Asian,,Novice,First-person,0,Novice,5,69,8.884,4E,1
+2028,21,Female,Asian,,Novice,First-person,0,Novice,4,19.75,9.4,3E,2
+2032,22,Female,Asian,,Novice,Third-person,0,Novice,6,57,8.426666667,4E,2
+2033,22,Female,Native Hawaiian or Other Pacific Islander,,Novice,First-person,0,Novice,5,40,4.392,3E,0
+2035,23,Female,Middle Eastern,,Novice,First-person,0,Novice,4,24,3.535,2E,3
+2037,21,Female,Latino/Latina/Latinx,,Intermediate,Both,0,Expert,6,86.33333333,6.001666667,2E,1
+2041,17,Male,Asian,,Expert,Both,2,Intermediate,3,102,9.32,4E,1
+2042,20,Female,Asian,,Novice,Both,1,Novice,6,39.83333333,7.495,3E,1
+2043,23,Female,Asian,,Novice,Neither,0,Novice,7,56.85714286,3.955714286,1E,1
+2046,19,Male,Asian,,Expert,Both,4,Intermediate,12,43.25,3.360833333,1E,0
+2049,18,Male,Asian,,Expert,Both,3,Expert,9,55.66666667,5.112222222,1E,3
+2051,27,Female,White,,Novice,Third-person,0,Novice,6,68,2.773333333,2E,0
+2052,20,Male,White,,Expert,Both,6,Expert,6,51,3.88,3E,3
+2055,21,Female,"Latino/Latina/Latinx,Native Hawaiian or Other Pacific Islander,White",,Expert,Both,7,Intermediate,4,31.25,3.6375,1E,0
+2056,28,Male,White,,Novice,Both,0,Novice,8,55,3.0575,2E,1
+2057,26,Female,Latino/Latina/Latinx,,Novice,First-person,,Novice,2,25,1,2E,0
+2059,22,Male,Asian,,Intermediate,Both,2,Intermediate,5,52.6,6.756,4E,2
+2066,18,Female,Latino/Latina/Latinx,,,,,,2,51,6.935,4E,0
+2067,19,Female,Asian,,Novice,Neither,0,Novice,8,50,3.98375,3E,0
+2070,20,Female,Asian,,Intermediate,First-person,2,Intermediate,6,31.66666667,8.275,4E,2
+2071,21,Female,Asian,,Novice,Neither,0,Novice,4,61.75,3.9325,4E,2
+2073,22,Female,Asian,,Expert,Both,1,Intermediate,4,23,2.615,4E,0
+2074,21,Female,Asian,,Intermediate,Third-person,0,Novice,8,106,4.92125,3E,1
+2075,17,Male,Asian,,Novice,First-person,0,Novice,5,61.2,4.392,2E,1
+2077,19,Female,Asian,,Intermediate,Both,2,Intermediate,12,36.33333333,4.7175,3E,1
+2079,20,Female,Asian,,Intermediate,Both,0,Novice,7,53,5.455714286,3E,1
+2080,20,Male,White,,Intermediate,Both,0,Intermediate,12,40.5,4.000833333,4E,1
+2081,20,Female,Asian,,Intermediate,Third-person,2,Novice,11,63.18181818,4.087272727,1E,1
+2082,20,Female,Asian,,Novice,Neither,0,Novice,1,43,1,4E,2
+2083,21,Male,White,,Intermediate,Both,3,Novice,10,61.2,4.815,4E,2
+2084,27,Female,Latino/Latina/Latinx,,Intermediate,Neither,0,Novice,2,69.5,6.91,1E,0
+2085,22,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,4,68.25,4.785,1E,0
+2086,22,Female,Asian,,Novice,First-person,2,Novice,6,60.66666667,5.433333333,3E,1
+2087,22,Female,Asian,,Novice,Both,1,Novice,7,39,4.885714286,3E,1
+2088,23,Male,"Latino/Latina/Latinx,White",,Expert,Both,4,Expert,11,55.18181818,1.938181818,3E,0
+2089,19,Non-binary,Asian,,Novice,Third-person,3,Intermediate,8,46.375,2.495,3E,1
+2091,21,Female,Black or African American,,Novice,Neither,0,Novice,6,106,5.198333333,3E,1
+2092,31,Female,Middle Eastern,,Novice,First-person,0,Novice,5,53.2,4.138,3E,0
+2092,31,Female,Middle Eastern,,Novice,Both,0,Novice,5,53.2,4.138,3E,0
+2093,17,Female,Native Hawaiian or Other Pacific Islander,,Expert,Both,2,Expert,9,29.44444444,3.521111111,3E,2
+2094,29,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,3,48.66666667,3.076666667,3E,1
+2096,21,Female,"White,Other",Spanish Basque,Novice,Neither,0,Novice,4,116,7.765,3E,1
+2098,30,Female,Latino/Latina/Latinx,,Intermediate,First-person,1,Intermediate,5,78.8,3.746,3E,2
+2099,21,Male,Asian,,Intermediate,Both,0,Novice,10,64.6,3.969,3E,1
+2100,20,Female,White,,Novice,First-person,1,Novice,8,48.25,8.59375,3E,3
+2101,21,Male,"Middle Eastern,Other",Iranian,Intermediate,Both,0,Novice,12,45.75,4.315,3E,0
+2109,21,Male,Asian,,Expert,Third-person,2,Novice,5,42,1.928,3E,1
+2110,20,Female,Asian,,Intermediate,Third-person,5,Novice,7,68.42857143,7.125714286,3E,0
+2111,23,Female,Asian,,Novice,Neither,0,Novice,3,35.66666667,6.7,4E,1
+2113,21,Female,Latino/Latina/Latinx,,Intermediate,First-person,5,Novice,9,55.66666667,4.804444444,2E,1
+2114,19,Female,Asian,,Novice,Both,0,Intermediate,7,32.28571429,7.671428571,4E,2
+2115,22,Female,White,,Intermediate,Third-person,1,Novice,7,80.14285714,3.325714286,2E,1
+2117,19,Female,Asian,,Novice,First-person,0,Intermediate,7,33.71428571,4.274285714,1E,0
+2118,19,Female,White,,Expert,Both,2,Expert,9,57.44444444,3.571111111,1E,1
+2130,21,Female,Asian,,Novice,Third-person,2,Novice,4,42,4.615,3E,4
+2133,18,Female,Latino/Latina/Latinx,,Intermediate,Both,2,Intermediate,5,52,6.366,3E,1
+2135,20,Female,"Latino/Latina/Latinx,White",,Intermediate,First-person,,Expert,7,33.57142857,6.482857143,4E,0
+2136,24,Female,Asian,,Novice,Third-person,1,Novice,10,49.9,5.692,3E,2
+2137,20,Male,Asian,,Expert,Both,4,Expert,7,42.42857143,5.182857143,4E,5
+2137,20,Male,Asian,,Intermediate,Both,4,Expert,7,42.42857143,5.182857143,4E,5
+2138,19,Male,Asian,,Expert,Both,6,Intermediate,11,34.36363636,5.377272727,4E,0
+2139,22,Female,Latino/Latina/Latinx,,Expert,Both,5,Novice,9,29.66666667,6.29,4E,1
+2235,21,Female,Asian,,Novice,Both,3,Novice,11,50.72727273,5.385454545,4E,1
+2236,22,Female,Latino/Latina/Latinx,,Novice,First-person,1,Novice,10,46.7,4.41,2E,1
+2239,25,Female,Asian,,Expert,Both,5,Intermediate,8,45.875,4.72875,4E,0
+2240,19,Female,Asian,,Novice,Both,4,Intermediate,5,63.6,9.066,4E,0
+2241,21,Female,Asian,,Novice,First-person,0,Novice,2,63,8.57,4E,0
+2243,20,Male,Asian,,Expert,Both,4,Expert,12,40.16666667,3.386666667,1E,0
+2244,22,Female,White,,Intermediate,Both,1,Novice,5,43,5.638,3E,1
+2247,21,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,5,40.8,3.046,2E,1
+2249,18,Male,White,,Expert,Both,3,Intermediate,6,46.33333333,8.198333333,4E,1
+2250,21,Female,Asian,,Intermediate,Both,2,Intermediate,8,35.5,4.06375,4E,3
+2250,21,Female,Asian,,Intermediate,Both,2,Intermediate,8,35.5,4.06375,4E,3
+2300,21,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,3,99.66666667,2.166666667,2E,2
+2301,21,Female,White,,Novice,Neither,0,Novice,4,47.75,8.855,3E,2
+2302,21,Male,Asian,,Intermediate,Third-person,4,Novice,6,41,6.751666667,4E,2
+2303,19,Female,Asian,,Novice,Neither,0,Novice,3,52.66666667,4.576666667,2E,0
+2304,18,Female,Asian,,Expert,Both,3,Expert,12,29.75,5.406666667,1E,7
+2306,21,Female,"Asian,Other",russian,Intermediate,Third-person,7,Novice,8,67.25,3.74,2E,2
+2308,21,Female,Asian,,Novice,Both,0,Novice,9,145.3333333,2.92,1E,0
+2309,20,Female,Asian,,Novice,Both,3,Intermediate,9,44.11111111,4.344444444,2E,1
+2311,19,Female,"Asian,White",,Novice,Neither,0,Novice,10,33,7.215,4E,0
+2312,20,Female,Latino/Latina/Latinx,,Intermediate,Both,1,Novice,4,69,5.035,2E,3
+2314,20,Female,Asian,,Intermediate,Both,6,Intermediate,2,79.5,5.455,4E,2
+2317,18,Female,Latino/Latina/Latinx,,Novice,Both,2,Novice,7,44.85714286,4.845714286,4E,3
+2319,21,Male,Latino/Latina/Latinx,,Intermediate,Both,2,Intermediate,8,38.5,5.3875,4E,0
+2320,19,Female,Latino/Latina/Latinx,,Intermediate,First-person,1,Novice,5,55.4,3.856,1E,1
+2321,23,Male,Latino/Latina/Latinx,,Expert,Both,1,Intermediate,7,46.57142857,5.215714286,4E,0
+2322,21,Female,White,,Novice,First-person,0,Novice,2,63,2.16,2E,0
+2325,19,Female,Asian,,Intermediate,Both,5,Intermediate,4,74,8.07,1E,1
+3000,20,Female,"Asian,White",,Novice,Neither,0,Novice,6,70.5,7.26,2E,0
+3000,20,Female,"Asian,White",,Novice,Neither,0,Novice,6,70.5,7.26,2E,0
+3001,23,Female,"Asian,Black or African American,White",,Expert,Both,2,Intermediate,9,31.33333333,3.824444444,2E,1
+3002,21,Male,Asian,,Intermediate,Both,2,Novice,4,40.75,6.9225,1E,1
+3005,20,Female,Asian,,Novice,Neither,0,Novice,2,46.5,6.98,1E,1
+3006,20,Male,Asian,,Expert,Both,3,Intermediate,11,30.45454545,4.278181818,2E,1
+3007,18,Male,Asian,,Intermediate,Both,1,Intermediate,5,61.4,4.928,1E,2
+3008,18,Female,Asian,,Novice,Neither,0,Novice,7,42.42857143,6.294285714,1E,0
+3011,19,Male,Asian,,Expert,Both,2,Intermediate,10,43.5,6.392,1E,1
+3015,21,Male,"Middle Eastern,Other",Iranian ,Intermediate,Both,0,Novice,12,53.91666667,2.246666667,2E,0
+3016,18,Male,Asian,,Expert,Both,4,Intermediate,9,41.66666667,2.606666667,1E,1
+3017,18,Female,Latino/Latina/Latinx,,Novice,First-person,3,Novice,2,25.5,5.865,2E,1
+3019,22,Female,Asian,,Intermediate,First-person,0,Novice,4,60.5,6.5125,1E,0
+3020,21,Female,Asian,,Novice,First-person,0,Novice,12,48.08333333,2.815,2E,0
+3021,19,Female,White,,Novice,Neither,0,Novice,8,58.75,5.93875,2E,0
+3023,20,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,11,45.18181818,3.038181818,2E,2
+3024,20,Female,Asian,,Intermediate,Third-person,4,Novice,5,61.2,3.11,2E,2
+3025,21,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,7,69,2.974285714,1E,0
+3026,19,Female,Latino/Latina/Latinx,,Novice,Neither,0,Novice,10,73.8,3.733,1E,2
+3031,22,Female,Latino/Latina/Latinx,,Intermediate,Third-person,1,Intermediate,10,45.5,5.174,2E,0
+3033,21,Male,Asian,,Intermediate,Both,0,Intermediate,2,27.5,4.025,1E,1
+3034,18,Female,Asian,,Novice,Neither,0,Novice,2,49,4.25,1E,2
+3035,20,Female,Asian,,Intermediate,First-person,0,Novice,4,27.75,8.855,2E,1
+3039,24,Female,White,,Novice,Both,1,Novice,12,52.91666667,4.731666667,2E,0
+3039,24,Female,White,,Novice,Both,0,Novice,12,52.91666667,4.731666667,2E,0
+3040,19,Male,Asian,,Novice,Third-person,2,Novice,6,41.66666667,3.63,1E,0
+3042,20,Female,White,,Intermediate,Both,0,Intermediate,8,25.75,4.245,1E,2
+3043,23,Female,"Asian,Black or African American",,Intermediate,First-person,2,Novice,9,44,3.328888889,2E,2
+3046,19,Female,Middle Eastern,,Novice,Third-person,0,Novice,3,50.66666667,5.546666667,1E,1
+3052,19,Female,Asian,,Novice,Third-person,0,Novice,2,24,5.82,2E,0
+3053,25,Female,Asian,,Novice,Neither,0,Novice,3,36.66666667,6.85,2E,0
+3055,20,Male,Asian,,Intermediate,Third-person,1,Novice,10,40.8,3.46,2E,0
+3056,22,Male,Asian,,Expert,Both,3,Novice,5,42.8,5.72,1E,1
+3059,21,Male,Other,Armenian,Expert,Both,2,Intermediate,7,41.57142857,5.208571429,2E,1
+4006,20,Male,Asian,,Expert,Both,6,Expert,10,42.5,2.955,3E,2
+4009,21,Female,Asian,,Novice,First-person,5,Novice,6,45.16666667,4.38,1E,1
+4014,20,Female,Asian,,Expert,Both,7,Intermediate,9,45.77777778,5.941111111,4E,1
+4015,19,Male,"Asian,White",,Intermediate,Third-person,0,Intermediate,7,76.28571429,5.904285714,1E,0
+4020,20,Female,"Latino/Latina/Latinx,White",,Novice,First-person,0,Novice,4,56.5,5.7175,2E,3
+4021,19,Female,Asian,,Novice,Both,0,Novice,8,44.375,5.25125,2E,3
+4022,19,Female,Asian,,Novice,Neither,0,Novice,1,30,1,2E,0
+4023,23,Female,Asian,,,,,,10,48.3,4.419,1E,1
+4024,21,Female,Latino/Latina/Latinx,,Expert,Both,4,Intermediate,10,30.8,3.514,2E,1
+4025,22,Non-binary,White,,Novice,Third-person,1,Novice,7,58,9.6,1E,1
+4026,19,Male,Asian,,Expert,Both,5,Expert,7,44.14285714,3.767142857,1E,5
+4029,20,Male,Asian,,Expert,Both,3,Expert,10,46.9,4.092,1E,1
+4030,18,Female,Asian,,Novice,Both,1,Novice,7,51.14285714,4.598571429,1E,2
+4032,24,Male,Asian,,Expert,Third-person,2,Intermediate,8,33.5,8.2,3E,3
+4036,22,Female,Asian,,Intermediate,First-person,0,Novice,11,40.36363636,5.360909091,1E,1
+4037,22,Male,White,,Expert,Both,2,Expert,12,27.83333333,3.053333333,4E,3
+4039,19,Male,Asian,,Intermediate,First-person,1,Intermediate,10,61.7,3.31,1E,1
+4040,20,Male,Asian,,Expert,First-person,1,Intermediate,9,46,9.042222222,1E,1
+4041,52,Female,White,,Expert,Both,5,Novice,7,48.28571429,5.085714286,2E,3
+4042,18,Female,Asian,,Expert,Both,5,Expert,6,20.16666667,3.993333333,4E,2
+4042,18,Female,Asian,,Expert,Neither,5,Expert,6,20.16666667,3.993333333,4E,2
+4043,21,Male,White,,Expert,Both,2,Expert,10,29.5,5.947,3E,0
+5002,18,Female,Asian,,Intermediate,First-person,5,Intermediate,10,37.2,3.887,2E,0
+5004,18,Female,White,,Intermediate,First-person,1,Intermediate,3,37,3.243333333,1E,1
+5006,19,Female,Asian,,Novice,Both,0,Intermediate,5,29.8,3.61,2E,2
+5007,20,Male,Asian,,Intermediate,Both,2,Intermediate,7,53,3.052857143,2E,0
+5008,24,Female,Latino/Latina/Latinx,,Intermediate,First-person,1,Novice,6,59.33333333,4.258333333,3E,0
+5009,18,Female,White,,Novice,First-person,0,Intermediate,5,51.8,4.656,3E,1
+5011,18,Female,Latino/Latina/Latinx,,Novice,Both,0,Novice,8,31,4.785,4E,2
+5012,25,Non-binary,Asian,,Intermediate,Both,2,Novice,7,95.42857143,4.572857143,3E,0
+5014,21,Female,Latino/Latina/Latinx,,Novice,Neither,,Novice,5,55.6,5.748,4E,1
+5016,20,Female,Asian,,Intermediate,Both,1,Intermediate,7,38,7.58,4E,2
+5018,27,Transgender,"Middle Eastern,White",,Expert,Both,3,Intermediate,7,50.71428571,7.722857143,3E,1
+5020,18,Female,White,,Intermediate,Both,1,Intermediate,6,44.83333333,5.918333333,4E,2
+5025,22,Female,Asian,,Novice,Neither,0,Novice,6,49.66666667,7.486666667,3E,1
+5027,21,Male,Other,Indian/European,Intermediate,Both,1,Expert,10,26.7,3.36,1E,6
+5030,22,Male,Asian,,Intermediate,Both,3,Novice,4,52,7.32,2E,0
+5032,18,Female,Asian,,Novice,First-person,0,Novice,1,51,4.82,4E,1
+5034,19,Female,Asian,,Expert,First-person,1,Expert,7,24.14285714,4.747142857,1E,1
+5037,23,Male,Asian,,Intermediate,Both,2,Novice,6,21.16666667,5.305,1E,3
+5040,21,Male,Latino/Latina/Latinx,,Intermediate,Both,1,Novice,8,39.625,3.495,2E,3
+5042,22,Male,Latino/Latina/Latinx,,Expert,Both,2,Expert,7,52.14285714,4.182857143,2E,5
+5043,22,Female,"Asian,Black or African American",,Novice,Both,0,Novice,6,38.16666667,5.168333333,1E,1
+5044,21,Male,Latino/Latina/Latinx,,Expert,First-person,3,Expert,11,33.09090909,3.310909091,2E,4
+5046,20,Female,White,,Intermediate,Both,1,Expert,10,31.8,3.264,2E,2
+5047,25,Female,Asian,,Intermediate,Both,1,Intermediate,7,48.42857143,5.162857143,3E,1
+5049,19,Female,Asian,,Intermediate,Both,4,Intermediate,8,26.625,3.81875,2E,5
+5050,20,Transgender,Latino/Latina/Latinx,,Intermediate,Both,1,Expert,8,31.75,6.20625,4E,1
+5054,21,Female,White,,Novice,Neither,0,Novice,3,43,7.926666667,3E,3
+5055,20,Male,Latino/Latina/Latinx,,Expert,Both,2,Intermediate,10,16.4,3.278,2E,4
+5057,25,Male,Asian,,Novice,Neither,,Novice,6,76.83333333,6.236666667,2E,2
+5059,20,Male,"Asian,Latino/Latina/Latinx,White",,Expert,Both,6,Intermediate,10,21.5,5.119,2E,5
+5062,21,Non-binary,Asian,,Expert,Both,1,Intermediate,5,32,3.41,2E,1
+5063,18,Female,Black or African American,,Novice,Neither,0,Novice,1,25,8.05,4E,0
+5064,19,Female,Latino/Latina/Latinx,,Intermediate,Both,0,Novice,10,47.8,5.706,3E,2
