@@ -75,12 +75,6 @@ Each folder under `data/` (e.g., `1E/`, `2E/`) contains:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 📚 Citation
 
 ```bibtex
